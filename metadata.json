@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "AI-powered personal expense and finance assistant for Android with automatic expense detection, smart classification, and spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
